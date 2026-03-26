@@ -22,6 +22,7 @@ title: Home
 
 <ul class="post-list">
   {% for project in site.projects %}
+  {% if project.published == false or project.published == "false" %}{% continue %}{% endif %}
   <li class="post-list-item">
     <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
     <span class="project-desc">{{ project.description }}</span>

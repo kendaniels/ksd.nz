@@ -30,3 +30,4 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+      published: true
