@@ -1,7 +1,6 @@
 ---
 title: Banana Peel
 description: Automatically remove Google Gemini watermarks
-published: "false"
 ---
 
 Banana Peel removes Gemini watermarks from PNG images and losslessly compress them.
