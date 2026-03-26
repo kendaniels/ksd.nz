@@ -14,7 +14,7 @@ Now I can queue an album, skip a track, or check what's playing with a couple of
 
 **Hot tip**: I map [hyperkey](/raycast-hyperkey) + m (for music) to the Search Library command. Think of a song > hit the shortcut > search the song name > hit return > play. Something that took 20 seconds now takes 3.
 
-**Raycast Store link:** https://www.raycast.com/kendaniels/plexamp
+**Raycast Store link:** [https://www.raycast.com/kendaniels/plexamp](https://www.raycast.com/kendaniels/plexamp)
 
 ### Plexamp for Raycast commands
 
