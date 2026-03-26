@@ -8,7 +8,7 @@ Banana Peel removes Gemini watermarks from PNG images and losslessly compress th
 Point Banana Peel at your Downloads folder and it watches for new Gemini images, automatically peeling the watermark and compressing them the moment they land. Install it as an OS service and never think about it again -- every image arrives clean. It also works as a one-shot CLI for processing files you already have.
 
 ### How It Works
-test
+
 **Detection** -- Normalized cross-correlation matches the image against known watermark alpha masks (48x48 and 96x96 variants)
 
 **Removal** -- Reverse alpha blending restores the original pixel values: original = (watermarked - alpha * 255) / (1 - alpha)
