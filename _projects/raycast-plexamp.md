@@ -1,5 +1,5 @@
 ---
-title: ▷ Plexamp Extension for Raycast
+title: 🎶 Plexamp Extension for Raycast
 description: Browse, search and control Plexamp from Raycast
 ---
 **Raycast Store link:** https://www.raycast.com/kendaniels/plexamp
