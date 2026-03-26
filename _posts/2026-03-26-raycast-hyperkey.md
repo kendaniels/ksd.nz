@@ -1,0 +1,42 @@
+---
+title: Raycast and its magical hyper key
+description: Turn Caps Lock into a universal shortcut layer
+---
+
+If you're not using the hyper key in Raycast, stop what you're doing and set it up now.
+
+The hyper key remaps Caps Lock to press all four modifier keys at once: ⌃⌥⇧⌘.
+
+That combination is impossible to press by hand, which means every letter on your keyboard becomes a free shortcut slot. No conflicts with anything.
+
+You used to need a separate app like Karabiner-Elements to pull this off. Raycast has it built in.
+
+### How to set it up
+
+Raycast > Settings > Advanced > Hyper Key
+
+Turn it on. That's it. Caps Lock is now your hyper key.
+
+### How I use it
+
+Once you have the hyper key, you can assign any Raycast command or extension to hyper + a letter.
+
+Here's my setup:
+
+![[CleanShot 2026-03-26 at 22.21.43@2x.png|444]]
+
+The ones I reach for constantly:
+
+- **Hyper + M** opens my Plexamp Search Library command (with my  [[raycast-plexamp]]). Think of a song, hit the shortcut, search, hit return. Playing music in three seconds.
+- **Hyper + T** opens the terminal
+- **Hyper + C** opens my clipboard history
+
+You get the idea. One key combination per app or command. No menus, no searching.
+
+### Why it matters
+
+Every time you ⌘-Tab through windows or open Spotlight to find something, that's a context switch. Small, but it compounds across a whole day.
+
+The hyper key removes that friction. You think of what you want, you press two keys, you're there.
+
+I've been using this setup for months and I genuinely forget how people navigate their Macs without it.
