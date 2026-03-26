@@ -27,9 +27,10 @@ Here's my setup:
 
 The ones I reach for constantly:
 
-- **Hyper + M** opens my Plexamp Search Library command (with my Plexamp Raycast extension). Think of a song, hit the shortcut, search, hit return. Playing music in three seconds.
+- **Hyper + M** opens my Plexamp Search Library command (with my [Plexamp Raycast extension](/projects/raycast-plexamp)). Think of a song, hit the shortcut, search, hit return. Playing music in three seconds.
 - **Hyper + A** opens Raycast's AI chat
-- **Hyper + C** 
+- **Hyper + F** search files
+- **Hyper + E** launch emoji picker
 
 You get the idea. One key combination per app or command. No menus, no searching.
 

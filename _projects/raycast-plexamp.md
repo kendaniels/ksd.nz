@@ -12,7 +12,7 @@ I already use Raycast for controlling everything else on my Mac, so I created an
 
 Now I can queue an album, skip a track, or check what's playing with a couple of keystrokes. No context switching.
 
-**Hot tip**: I map [[2026-03-26-raycast-hyperkey]] + m (for music) to the Search Library command. Think of a song > hit the shortcut > search the song name > hit return > play. Something that took 20 seconds now takes 3.
+**Hot tip**: I map [hyperkey](/raycast-hyperkey) + m (for music) to the Search Library command. Think of a song > hit the shortcut > search the song name > hit return > play. Something that took 20 seconds now takes 3.
 
 **Raycast Store link:** https://www.raycast.com/kendaniels/plexamp
 
