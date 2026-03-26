@@ -23,13 +23,13 @@ Once you have the hyper key, you can assign any Raycast command or extension to 
 
 Here's my setup:
 
-![[CleanShot 2026-03-26 at 22.21.43@2x.png|444]]
+![Raycast hyper key setup](/assets/images/CleanShot%202026-03-26%20at%2022.21.43@2x.png)
 
 The ones I reach for constantly:
 
-- **Hyper + M** opens my Plexamp Search Library command (with my  [[raycast-plexamp]]). Think of a song, hit the shortcut, search, hit return. Playing music in three seconds.
-- **Hyper + T** opens the terminal
-- **Hyper + C** opens my clipboard history
+- **Hyper + M** opens my Plexamp Search Library command (with my Plexamp Raycast extension). Think of a song, hit the shortcut, search, hit return. Playing music in three seconds.
+- **Hyper + A** opens Raycast's AI chat
+- **Hyper + C** 
 
 You get the idea. One key combination per app or command. No menus, no searching.
 
