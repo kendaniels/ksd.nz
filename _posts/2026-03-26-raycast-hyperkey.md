@@ -36,8 +36,12 @@ You get the idea. One key combination per app or command. No menus, no searching
 
 ### Why it matters
 
-Every time you ⌘-Tab through windows or open Spotlight to find something, that's a context switch. Small, but it compounds across a whole day.
+Every time you stop to use your mouse, that's a context switch. Small, but it compounds across a whole day.
 
-The hyper key removes that friction. You think of what you want, you press two keys, you're there.
+The hyper key removes that friction. You think of what you want, you press two keys, do what you need to do, then get back to what you were doing.
 
-I've been using this setup for months and I genuinely forget how people navigate their Macs without it.
+I've been using this setup for months and I can't live without it.
+
+I bought a new Macbook Air recently and before I had installed anything I was already trying to  summon Raycast - without having installed Raycast yet 😅
+
+That's how ingrained Raycast's shortcut system is in my muscle memory.
