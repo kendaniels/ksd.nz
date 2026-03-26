@@ -1,8 +1,8 @@
 ---
-title: Why I created a production tracker that lives inside Etsy
-description: Etsy handles orders. It doesn't handle production. That's the gap.
-published: false
+title: 🗂️ MakerFlow
+description: Production tracking for Etsy - Inside Etsy
 ---
+**Link:** [https://makerflow.app](https://makerflow.app)
 
 Etsy is great at orders. It tells you what sold, who bought it, and when it needs to ship.
 
@@ -51,9 +51,3 @@ The key insight is that Etsy sellers don't need another system. They need a laye
 MakerFlow doesn't replace Etsy's order management. It adds the production visibility that Etsy never built.
 
 No imports, no syncing, no data entry. Your orders are already there. MakerFlow just lets you track the making part.
-
-### Who it's for
-
-If you sell handmade, made-to-order, or custom products on Etsy and you've outgrown sticky notes, MakerFlow is worth a look.
-
-There's a permanent free plan with three workflow steps. If you need more, [MakerFlow Pro](https://makerflow.app) is $10 a month.

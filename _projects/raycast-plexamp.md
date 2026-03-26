@@ -2,6 +2,8 @@
 title: 🎶 Plexamp Extension for Raycast
 description: Browse, search and control Plexamp from Raycast
 ---
+**Raycast Store link:** [https://www.raycast.com/kendaniels/plexamp](https://www.raycast.com/kendaniels/plexamp)
+
 I use Plexamp to play my local music library. It's built mobile first, and the desktop version is serviceable at best.
 
 Every time I wanted to search for a track or queue up an album, I had to break out of whatever I was doing.
@@ -13,8 +15,6 @@ I already use Raycast for controlling everything else on my Mac, so I created an
 Now I can queue an album, skip a track, or check what's playing with a couple of keystrokes. No context switching.
 
 **Hot tip**: I map [hyperkey](/raycast-hyperkey) + m (for music) to the Search Library command. Think of a song > hit the shortcut > search the song name > hit return > play. Something that took 20 seconds now takes 3.
-
-**Raycast Store link:** [https://www.raycast.com/kendaniels/plexamp](https://www.raycast.com/kendaniels/plexamp)
 
 ### Plexamp for Raycast commands
 
