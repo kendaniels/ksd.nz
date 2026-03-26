@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-{% assign published_projects = site.projects | where_exp: "p", "p.published != false and p.published != 'false'" | sort: "date" | reverse %}
-
 <p class="section-heading">Projects</p>
 
 <ul class="post-list">
-  {% for project in published_projects %}
+  {% assign sorted_projects = site.projects | sort: "date" | reverse %}
+  {% for project in sorted_projects %}
+  {% if project.published == false or project.published == "false" %}{% continue %}{% endif %}
   <li class="post-list-item">
     <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
     <span class="project-desc">{{ project.description }}</span>
