@@ -4,4 +4,8 @@ title: Now
 permalink: /now/
 ---
 
-What I'm doing now.
+Running 2x ecommerce retail businesses.
+
+Building [projects](/projects), mostly for myself.
+
+Training for Police College.
