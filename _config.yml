@@ -1,0 +1,32 @@
+url: "https://ksd.nz"
+baseurl: ""
+title: "Ken Daniels"
+description: "Personal site of Ken Daniels"
+author: "Ken Daniels"
+
+permalink: /:title/
+
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+  projects:
+    output: true
+    permalink: /projects/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
