@@ -4,6 +4,9 @@ title: "Ken Daniels"
 description: "Personal site of Ken Daniels"
 author: "Ken Daniels"
 
+plugins:
+  - jekyll-sitemap
+
 permalink: /:title/
 
 collections:
