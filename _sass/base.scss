@@ -224,6 +224,21 @@ h3 { font-size: 1.1rem; margin-top: 2rem; margin-bottom: 0.5rem; }
   flex-shrink: 0;
 }
 
+// View all link
+.view-all {
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+
+  a {
+    color: var(--text-2);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--text);
+    }
+  }
+}
+
 // Section heading on index
 .section-heading {
   font-size: 0.85rem;
